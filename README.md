@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=250&section=header&text=Welcome&fontColor=FFFFFF&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:B5DAF7,100:ACC6E6&height=250&section=header&text=Welcome&fontColor=FFFFFF&fontSize=50" />
 
 
 
