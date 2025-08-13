@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#bfd7e3&height=250&section=header&text=Heyhyejoy&fontSize=30" />
 
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRiMmt1NjJkYnVvZTh2ZnBxeTF3OWw5YjZmcnI2OXV2eHU4YzZnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif"  />
-</div>
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Joy's+GitHub)](https://git.io/typing-svg)
 
