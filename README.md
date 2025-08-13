@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Heyhyejoy&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#bfd7e3&height=250&section=header&text=Heyhyejoy&fontSize=30" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Joy's+GitHub)](https://git.io/typing-svg)
 
